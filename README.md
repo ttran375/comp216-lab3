@@ -1,8 +1,8 @@
-## Lecture 3
+# Lecture 3
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ttran375/comp216-lab3/blob/main/src/main.ipynb)
 
-### Question 1
+## Question 1
 
 A user profile class was introduced into an application
 based on the following definition:
@@ -34,7 +34,7 @@ Update the relevant methods to ensure:
     alphanumerical characters. If not, raise a Value Error and
     auto-populate the attribute with the value: ‘X0X0X0’.
 
-### Question 2
+## Question 2
 
 Use the following list of tuples that contains and scores of
 students.
@@ -72,7 +72,7 @@ honour_students = {
 }
 ```
 
-### Question 3
+## Question 3
 
 Given the range object (below), create a single line
 statement that utilizes a map(), filter() and lambda functions to
